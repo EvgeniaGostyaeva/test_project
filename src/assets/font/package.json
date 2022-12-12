@@ -1,0 +1,12 @@
+{
+  "name": "font-inter",
+  "version": "0.1.0",
+  "keywords": [
+    "font",
+    "inter"
+  ],
+  "main": "index.css",
+  "publishConfig": {
+    "access": "public"
+  }
+}
